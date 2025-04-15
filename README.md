@@ -100,7 +100,6 @@ Atividades e projetos relacionados ao curso
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=IanVictor07&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
   />
-<br>
 <img 
       align="left" 
       alt="GitHub Stats" 
